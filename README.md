@@ -13,7 +13,9 @@
 
 ## Skills
 <div align="center">
+  
 [![My Skills](https://skillicons.dev/icons?i=c,go,html,css,git,linux,bash)](https://skillicons.dev)
+
 </div>
 
 ---
