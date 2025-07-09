@@ -6,7 +6,7 @@
 
 ## :name_badge: Software engineering student.
 
-- :peach: I'm currently studying Software engineering at [Zone01 Oujda](https://www.zone01oujda.ma/).
+- :watermelon: I'm currently studying Software engineering at [Zone01 Oujda](https://www.zone01oujda.ma/).
 - :watermelon: You can reach me via [Email] or [LinkedIn].
 
 ---
