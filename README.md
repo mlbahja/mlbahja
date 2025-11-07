@@ -14,7 +14,7 @@
 ## Skills
 <div align="center">
   
-[![My Skills](https://skillicons.dev/icons?i=c,go,html,css,git,rust,linux,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,go,html,css,git,rust,linux,bash,spring boot,anguler)](https://skillicons.dev)
 
 </div>
 
